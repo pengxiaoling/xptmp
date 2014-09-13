@@ -1,4 +1,0 @@
-xptemplate
-==========
-
-fluid template
